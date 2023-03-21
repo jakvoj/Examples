@@ -11,3 +11,6 @@ citac.asm - program v assembleru pro AVR Atmega 328p, counter sekund s vypisem n
 
 
 mereni_volty.asm - program v assembleru pro AVR Atmega 328p, jednoduche mereni voltu pomoci interniho ADC, vypis na LED segmentovku, referencni napeti pro ADC 5V
+
+
+klient.cs - klientska aplikace pro MySQL databazi predstavujici cesko-anglicky slovnik, aplikace bezi na platforme .NET Framework, napsana v jazyce C#
